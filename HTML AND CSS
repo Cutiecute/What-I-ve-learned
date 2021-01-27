@@ -4,6 +4,9 @@
 <style>
 </style>
 <link rel="stylesheet" type="text/css" href="">
+<title></title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 
@@ -45,10 +48,11 @@ This is a paragraph
 
 <!-- This is a comment -->
 
-<a href="w3schools.com" target="_blank">
-<a href="index.html" target="_self">
-<a href="/folder/index.html" target="_parent">
-<a href="../folder/index.html" target="_top">\
+<a href="w3schools.com" target="_blank"></a>
+<a href="index.html" target="_self"></a>
+<a href="folder/index.html" target="_parent"></a>
+<a href="/folder/index.html" target="_parent"></a>
+<a href="../folder/index.html" target="_top"></a>
 
 <table>
 <tr>
@@ -115,10 +119,18 @@ This is a paragraph
 </ol>
 
 
-<div></div>
-<span></span>
+<div class=""></div>
+<span id=""></span>
+
+<iframe src="index.html" name="iframe"></iframe>
+<a href="tss.html" target="iframe">Link</a>
+
+<code></code>
+<var></var>
+<samp></samp>
+<kbd></kbd>
 
 
-
+<script src=""></script>
 </body>
 </html>
