@@ -130,6 +130,64 @@ This is a paragraph
 <samp></samp>
 <kbd></kbd>
 
+<form action="index.php" method="POST OR GET" target="_blank, _top, _parent, _self" autocomplete="on or off" novalidate>
+<label for=""></label>
+  <input type="text" value="" id="" name="">
+  <input type="submit" value="" id="" name="">
+  <input type="radio" value="" id="" name="">
+  <input type="checkbox" value="" id="" name="">
+  <input type="button" value="" id="" name="">
+</form>
+
+<input type="text" value="" id="" name="">
+<label></label>
+<select id="" name="" size="" multiple>
+  <option value=""></option>
+</select>
+
+<textarea name rows="" cols=""></textarea>
+
+<button type="button"></button>
+
+<form action="" method="">
+<fieldset>
+<legend></legennd>
+</fieldset>
+</form>
+
+<form action="" method="">
+<input list="name">
+<datalist id="name">
+  <option value=""></option>
+</datalist>
+</form>
+
+<input list="">
+<input type="button" readonly active disabled value="" placeholder="' name="" size="" multiple step="" maxlength="" min="" max="" pattern="">
+<input type="checkbox" required autofocus >
+<input type="color" form="" formmethod="" formtarger="" formnovalidate="" formaction="" formenctype="">
+<input type="date">
+<input type="datetime-local" min="" max="">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number" step="">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
+
+
+
 
 <script src=""></script>
 </body>
