@@ -1,1 +1,85 @@
+/**/ Comments
+
+background-color: ;
+background-attachment: fixed, scroll;
+background-size: contain, cover or size;
+background-repeat: no-repeat, repeat-x, repeat-y, repeat;
+background-image: url();
+background: url() color repeat size attachment;
+
+border-style: dotted dashed double solid ridge groove inset outset none hidden mix;
+border-color: color ;
+border-size: px;
+border: 2px solid red;
+border-radius: px;
+
+margin-top: ;
+margin-right: ;
+margin-bottom: ;
+margin-left: ;
+margin: ;
+
+padding-top: ;
+padding-right: ;
+padding-bottom: ;
+padding-left: ;
+padding: ;
+
+height: ;
+width: ;
+max-width: ;
+max-height: ;
+min-width: ;
+min-height: ;
+
+content
+padding: ;
+margin: ;
+border: ;
+
+outline-style: dotted dashed double solid ridge groove inset outset none hidden mix;
+outline-color: color;
+outline-size: px;
+outline-offset: px;
+
+text-align: center, left, right;
+text-transform uppercase capitalize lowercase:
+text-decoration none underline overline:
+text-shadow: horizontal vertical blur;
+text-indent: px;
+letter-spacing: px;
+word-spacing: px;
+line-height: px;
+whitespace: nowrap;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
